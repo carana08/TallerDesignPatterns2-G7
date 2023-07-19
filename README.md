@@ -1,0 +1,1 @@
+# TallerDesignPatterns2-G7
